@@ -1,0 +1,19 @@
+#list{
+    list-style: none;
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.highSCore{
+    color: black;
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem; 
+
+}
+
+.highSCore:hover{
+    transform: scale(1.5);
+}
+

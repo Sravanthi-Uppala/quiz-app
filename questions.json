@@ -1,0 +1,26 @@
+[
+{
+   "question":"WHats today?",
+   "choice1":"Mon",
+   "choice2":"Tues",
+   "choice3":"Wed",
+   "choice4":"Thurs",
+   "answer":1
+},
+{
+   "question":"WHats today?",
+   "choice1":"Mon",
+   "choice2":"Tues",
+   "choice3":"Wed",
+   "choice4":"Fri",
+   "answer":2
+},
+{
+   "question":"WHats today?",
+   "choice1":"Mon",
+   "choice2":"Tues",
+   "choice3":"Wed",
+   "choice4":"Sat",
+   "answer":3
+}
+]
